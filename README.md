@@ -19,7 +19,7 @@ TECH STACK
 PROJECT SETUP
 
 1. Clone the repository:
-git clone https://github.com/your-username/simple-todos-blaze.git
+git clone https://github.com/SasiDeepikaVasantha/simple-todos-blaze.git
 cd simple-todos-blaze
 
 2. Install Meteor:
